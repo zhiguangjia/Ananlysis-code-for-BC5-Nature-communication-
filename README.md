@@ -1,5 +1,5 @@
 
-##  there is no master file, as each script coorespond to a spcific analysis
+##  there is no master file, as each script correspond to a spcific analysis
 
 #  1  contact probability
 
